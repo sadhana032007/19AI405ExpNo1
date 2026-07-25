@@ -42,6 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 PROGRAM:
 
+```
 import random
 class MedicineAgent:
   def __init__(self):
@@ -78,7 +79,7 @@ def main():
   print("Simulation finished.")
 if __name__== "__main__":
   main()
-
+```
   OUTPUT:
 
   <img width="403" height="209" alt="image" src="https://github.com/user-attachments/assets/8919405c-6780-4e51-880d-aedc06a111e4" />
